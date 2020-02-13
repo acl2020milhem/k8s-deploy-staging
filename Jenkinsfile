@@ -142,7 +142,6 @@ pipeline {
           specFile: "monspec/e2e_perfsig.json"
         )
       }
-    }
-    
+    } 
   }
 }
